@@ -4,7 +4,7 @@ security:
 
 management:
   security:
-    enabled: trur
+    enabled: true
 
 logging:
   level:
